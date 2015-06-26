@@ -1,0 +1,40 @@
+{
+  "name": "react-notification-center",
+  "version": "0.1.0",
+  "homepage": "https://github.com/tobernguyen/react-notification-center.git",
+  "authors": [
+    "Long Nguyen"
+  ],
+  "description": "Fakebook-like notification center",
+  "main": "./dist/example.js",
+  "dependencies": {
+    "react": "0.13.3"
+  },
+  "devDependencies": {
+    "chai-jquery": "~2.0.0",
+    "jquery": "~2.1.4",
+    "chai": "~3.0.0",
+    "es5-shim": "~4.1.7"
+  },
+  "keywords": [
+    "react",
+    "react-component",
+    "notification",
+    "react-notification",
+    "react-notification-center",
+    "facebook-notification"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "example",
+    "lib",
+    "node_modules",
+    "script",
+    "specs",
+    "index.js",
+    "karma.conf.js",
+    "webpack.config.js",
+    "package.json"
+  ]
+}
